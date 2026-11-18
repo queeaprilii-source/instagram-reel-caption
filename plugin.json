@@ -1,0 +1,13 @@
+{
+  "name": "instagram-reel-caption",
+  "version": "0.1.0",
+  "description": "Write ready-to-paste Instagram Reel captions from video screenshots with saved CTA choices.",
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Instagram Reel Caption",
+    "shortDescription": "Titles, CTAs, and hashtags from video screenshots",
+    "longDescription": "Create an English Instagram Reel caption from a video screenshot. Choose a saved CTA for each caption and update its URL through conversation.",
+    "category": "Creativity",
+    "capabilities": ["Interactive", "Write"]
+  }
+}
